@@ -91,7 +91,7 @@ Link da Defesa de exercício: em breve.
         <tr>
           <td>01/05/2023</td>
           <td>21/07/2023</td>
-          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo02">Módulo 2 (você já está nesse)</a></td>
+          <td><a href="https://github.com/DeiseFAS/Lab365-FullStack-modulo02">Módulo 2 (você está nesse)</a></td>
         </tr>
         <tr>
           <td>31/07/2023</td>
