@@ -15,3 +15,5 @@ Cor do texto principal: 2C2C2C
 Cor do texto secundário: B4B6C1
 
 Cor do texto do input (placeholder): B4B6C1
+
+Resolução no link: https://www.figma.com/file/le419T8pYsVpLZOUieAhGx/atividade-semana2?type=design&node-id=0%3A1&mode=dev
